@@ -1,6 +1,6 @@
 {
   "name": "opuspm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "opus package manager - build npm packages from scratch using ai",
   "author": "Aleks Bykhun <caffeinum@gmail.com> (https://github.com/caffeinum)",
   "license": "MIT",
