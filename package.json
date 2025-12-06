@@ -2,6 +2,28 @@
   "name": "fake-npm",
   "version": "1.0.0",
   "description": "build npm packages from scratch using ai - no supply chain attacks",
+  "author": "Aleks Bykhun <caffeinum@gmail.com> (https://github.com/caffeinum)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/caffeinum/fake-npm"
+  },
+  "homepage": "https://github.com/caffeinum/fake-npm",
+  "bugs": {
+    "url": "https://github.com/caffeinum/fake-npm/issues"
+  },
+  "keywords": [
+    "npm",
+    "ai",
+    "claude",
+    "package-manager",
+    "supply-chain",
+    "security",
+    "code-generation"
+  ],
+  "funding": {
+    "url": "https://x.com/caffeinum/status/1997095120362262918"
+  },
   "module": "index.ts",
   "type": "module",
   "bin": {

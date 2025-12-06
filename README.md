@@ -2,8 +2,10 @@
 
 build npm packages from scratch using ai. no supply chain attacks, just vibes.
 
-inspired by [@weswinder](https://twitter.com/weswinder):
+inspired by [@weswinder](https://twitter.com/weswinder)'s [tweet](https://x.com/weswinder/status/1930080419166015683):
 > "i really don't think we need npm anymore. opus 4.5 can duplicate basically anything from scratch and actually have full control over the code. easy way to avoid supply chain attacks"
+
+built live on stream: https://x.com/caffeinum/status/1997095120362262918
 
 ## how it works
 
