@@ -1,5 +1,5 @@
 {
-  "name": "fake-npm",
+  "name": "@caffeinum/fake-npm",
   "version": "1.0.0",
   "description": "build npm packages from scratch using ai - no supply chain attacks",
   "author": "Aleks Bykhun <caffeinum@gmail.com> (https://github.com/caffeinum)",
