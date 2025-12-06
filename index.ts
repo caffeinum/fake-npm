@@ -5,16 +5,18 @@ const args = process.argv.slice(2);
 
 if (args.length === 0 || args[0] === "--help" || args[0] === "-h") {
   console.log(`
-fake-npm - build packages from scratch instead of installing them
+opuspm - opus package manager
+
+build packages from scratch using ai instead of installing them
 
 usage:
-  fake-npm install <package-name>   build a package from scratch using ai
-  fake-npm i <package-name>         same as install
+  opuspm install <package-name>   build a package from scratch using ai
+  opuspm i <package-name>         same as install
 
 examples:
-  fake-npm install lodash
-  fake-npm i express
-  fake-npm install left-pad
+  opuspm install lodash
+  opuspm i express
+  opuspm install left-pad
 
 no supply chain attacks. just vibes.
 `);

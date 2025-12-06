@@ -1,7 +1,7 @@
 {
-  "name": "@caffeinum/fake-npm",
+  "name": "opuspm",
   "version": "1.0.0",
-  "description": "build npm packages from scratch using ai - no supply chain attacks",
+  "description": "opus package manager - build npm packages from scratch using ai",
   "author": "Aleks Bykhun <caffeinum@gmail.com> (https://github.com/caffeinum)",
   "license": "MIT",
   "repository": {
@@ -27,7 +27,7 @@
   "module": "index.ts",
   "type": "module",
   "bin": {
-    "fake-npm": "./index.ts"
+    "opuspm": "./index.ts"
   },
   "devDependencies": {
     "@types/bun": "latest"
