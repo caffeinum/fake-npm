@@ -1,7 +1,12 @@
 {
   "name": "fake-npm",
+  "version": "1.0.0",
+  "description": "build npm packages from scratch using ai - no supply chain attacks",
   "module": "index.ts",
   "type": "module",
+  "bin": {
+    "fake-npm": "./index.ts"
+  },
   "devDependencies": {
     "@types/bun": "latest"
   },
