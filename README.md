@@ -36,7 +36,9 @@ bun run index.ts install express
 ## requirements
 
 - bun
-- `ANTHROPIC_API_KEY` environment variable
+- one of these auth methods:
+  - `ANTHROPIC_API_KEY` environment variable, or
+  - `CLAUDE_CODE_OAUTH_TOKEN` for claude code oauth
 
 ## why
 
