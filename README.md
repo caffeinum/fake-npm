@@ -1,12 +1,12 @@
 # opuspm
 
-opus package manager - build npm packages from scratch using ai
+opus package manager == build npm packages from scratch using ai
 
-instead of `npm install lodash`, you run `opuspm install lodash`
+instead of `npm install lodash`, run `opuspm install lodash`
 
-except it doesn't install anything. it builds the entire package from scratch using claude.
+it doesn't download anything, it builds the entire package from scratch using claude.
 
-no supply chain attacks. just vibes.
+no supply chain attacks ever again!
 
 (disclaimer: supply chain attacks might still be present)
 
