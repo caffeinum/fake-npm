@@ -8,6 +8,8 @@ except it doesn't install anything. it builds the entire package from scratch us
 
 no supply chain attacks. just vibes.
 
+(disclaimer: supply chain attacks might still be present)
+
 ## inspiration
 
 [@weswinder](https://twitter.com/weswinder)'s [tweet](https://x.com/weswinder/status/1930080419166015683):
