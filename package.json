@@ -1,16 +1,16 @@
 {
   "name": "opuspm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "opus package manager - build npm packages from scratch using ai",
   "author": "Aleks Bykhun <caffeinum@gmail.com> (https://github.com/caffeinum)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/caffeinum/fake-npm"
+    "url": "https://github.com/caffeinum/opuspm"
   },
-  "homepage": "https://github.com/caffeinum/fake-npm",
+  "homepage": "https://github.com/caffeinum/opuspm",
   "bugs": {
-    "url": "https://github.com/caffeinum/fake-npm/issues"
+    "url": "https://github.com/caffeinum/opuspm/issues"
   },
   "keywords": [
     "npm",
